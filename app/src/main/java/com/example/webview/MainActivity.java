@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
     private WebView webView;
 
-    private String urlToLoad = "https://josiasmartins.com";
+    private String urlToLoad = "https://josiasmartins.com/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
