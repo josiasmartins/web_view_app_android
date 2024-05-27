@@ -7,9 +7,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <Progress
+    <ProgressBar
         android:id="@+id/loading_progressbar"
-        style="@style/Widget.AppCompact.ProgressBar.Horizontal"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
         android:layout_width="match_parent"
         android:layout_height="4dp" />
 
